@@ -13,7 +13,7 @@ This project is a template for building microservices with Flask.
    :target: https://travis-ci.org/Mwnuczek/EloElo320CoolRepo2019BlazeItxXXxX360noScopexXXxXx
 
 .. image:: https://readthedocs.org/projects/Mwnuczek/EloElo320CoolRepo2019BlazeItxXXxX360noScopexXXxXx/?version=latest
-   :target: https://micro-template.readthedocs.io
+   :target: https://EloElo320CoolRepo2019BlazeItxXXxX360noScopexXXxXx.readthedocs.io
 
 
 
