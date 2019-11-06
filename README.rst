@@ -11,10 +11,9 @@ This project is a template for building microservices with Flask.
 
 .. image:: https://travis-ci.org/Mwnuczek/EloElo320CoolRepo2019BlazeItxXXxX360noScopexXXxXx.svg?branch=master
    :target: https://travis-ci.org/Mwnuczek/EloElo320CoolRepo2019BlazeItxXXxX360noScopexXXxXx
-
-.. image:: https://readthedocs.org/projects/EloElo320CoolRepo2019BlazeItxXXxX360noScopexXXxXx/?version=latest
-   :target: https://EloElo320CoolRepo2019BlazeItxXXxX360noScopexXXxXx.readthedocs.io
-
+   
+.. image:: https://readthedocs.org/projects/eloelo320coolrepo2019blazeitxxxxx360noscopexxxxxx/badge/?version=latest
+:target: https://eloelo320coolrepo2019blazeitxxxxx360noscopexxxxxx.readthedocs.io/en/latest/?badge=latest
 
 
 
