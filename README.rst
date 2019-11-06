@@ -6,7 +6,7 @@ microservice template
 
 This project is a template for building microservices with Flask.
 
-.. image:: https://coveralls.io/repos/github/Mwnuczek/EloElo320CoolRepo2019BlazeItxXXxX360noScopexXXxXx/badge.svg?branch=master
+.. image:: https://coveralls.io/github/Mwnuczek/EloElo320CoolRepo2019BlazeItxXXxX360noScopexXXxXx/badge.svg?branch=master
    :target: https://coveralls.io/github/Mwnuczek/EloElo320CoolRepo2019BlazeItxXXxX360noScopexXXxXx?branch=master
 
 .. image:: https://travis-ci.org/Mwnuczek/EloElo320CoolRepo2019BlazeItxXXxX360noScopexXXxXx.svg?branch=master
